@@ -1,0 +1,8 @@
+/*
+!.gitignore
+!README.md
+!/config
+!/content
+!/Source
+!/*.uproject
+!/*.sln
